@@ -6,7 +6,7 @@ Short description of the project: what it does and why.
 
 ```bash
 git clone https://github.com/emlyon-hids-python-2026/Hugo_course04.git
-cd hugo_course04
+cd Hugo_course04
 uv sync
 ```
 
