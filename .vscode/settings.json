@@ -5,12 +5,12 @@
 
     // --- Visual identity (purple) ---
     "workbench.colorCustomizations": {
-        "activityBar.background": "#5B3A9E",
+        "activityBar.background": "#790b0b",
         "activityBar.foreground": "#ffffff",
         "activityBar.inactiveForeground": "#ffffff99",
-        "titleBar.activeBackground": "#5B3A9E",
+        "titleBar.activeBackground": "#5b0505",
         "titleBar.activeForeground": "#ffffff",
-        "titleBar.inactiveBackground": "#5B3A9E",
+        "titleBar.inactiveBackground": "#000001",
         "titleBar.inactiveForeground": "#ffffff99"
     },
 
